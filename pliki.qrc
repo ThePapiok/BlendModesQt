@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/zdj">
+        <file>swain.jpg</file>
+        <file>orn.jpg</file>
+        <file>warwick.jpg</file>
+    </qresource>
+</RCC>
